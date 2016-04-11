@@ -1,5 +1,8 @@
 body {
 	background: #D8D8D8;
+}
+
+#index {
 	width: 75%;
 	margin: 0 auto;
 }
@@ -59,4 +62,9 @@ a:visited {
 	padding: 1em;
 	font-size: 	1em;
 	border: dashed 1px darkred;			
+}
+footer {
+	width: 100%;
+	margin 0 auto;
+	text-align: center;
 }
