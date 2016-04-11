@@ -1,3 +1,37 @@
-html {
-	background: blue;
+body {
+	background: #D8D8D8;
+	width: 75%;
+	margin: 0 auto;
+}
+#cover-title {
+	width: 100%;
+	text-align: center;
+	font-size:	3em;
+	font-family: arial black; 
+	font-variant: small-caps;
+}
+img {
+	border: 15px solid black;
+}
+#title-image-source {
+	font-style: italic;
+}
+table {
+	margin: 40px;
+	width: 75%;
+	background: #CC33CC;
+	border: 1px solid black;
+	padding: 30px;
+	border-radius: 5px;
+	text-align: center;
+}
+th {
+	font-size: 2em;
+	font-style: bold;
+	padding: 5px;
+	background: #404040;
+	color: #D8D8D8;
+}
+tr{
+	background: #D8D8D8;
 }
